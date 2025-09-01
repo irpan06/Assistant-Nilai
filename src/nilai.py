@@ -1,14 +1,5 @@
-"""
-Dashboard Analisis Nilai Kuliah
--------------------------------
-Aplikasi Streamlit untuk analisis transkrip nilai mahasiswa.
 
-Catatan:
-- Hanya diformat ulang agar sesuai PEP8.
-- Logika asli tidak diubah.
-"""
-
-__author__ = "Project Irvandi"
+__author__ = "irr"
 __version__ = "1.0.0"
 
 import requests
