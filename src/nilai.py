@@ -184,8 +184,8 @@ def display_main_app():
         transkrip_ori["Semester"] = transkrip_ori["Semester"].str.split(" - ").str[0]
 
         # import file mk wajib dan kbk
-        kurikulum_df = pd.read_excel("/data/mk wajib.xlsx")
-        kbk_df = pd.read_excel("/data/mk kbk.xlsx")
+        kurikulum_df = pd.read_excel("data/mk wajib.xlsx")
+        kbk_df = pd.read_excel("data/mk kbk.xlsx")
     except FileNotFoundError:
         st.error("Pastikan semua file (transkrip, mk wajib, mk kbk) telah diunggah.")
         st.stop()
