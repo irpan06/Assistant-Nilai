@@ -49,7 +49,7 @@ Aplikasi ini dibangun dengan stack Python untuk data processing, visualisasi, da
 - **Difflib (SequenceMatcher)** → mencocokkan nama mata kuliah antara transkrip dan kurikulum (termasuk similarity matching).
 
 Alur sederhana aplikasi:
-1. **Login / Input data** → pengguna masuk dengan kredensial (atau data dummy).
+1. **Login / Input data** → pengguna masuk dengan kredensial.
 2. **Scraping & parsing** → data transkrip diambil dengan *requests* dan diolah dengan *BeautifulSoup*.
 3. **Data processing** → transkrip dibersihkan, dihitung IPK/IPS, serta dicocokkan dengan kurikulum.
 4. **Visualisasi** → hasil analisis ditampilkan dalam bentuk grafik interaktif dan tabel dinamis.
@@ -68,8 +68,8 @@ Namun, logika pencocokan kurikulum dapat dengan mudah diadaptasi untuk universit
 ---
 
 ## 👤 Author
-- **Irvandi**  
-  [LinkedIn](https://www.linkedin.com/in/irvandddi/) | [GitHub](https://github.com/username)
+**Muhamad Irvandi**  
+[LinkedIn](https://www.linkedin.com/in/irvandddi/) | [GitHub](https://github.com/irpan06)
 
 
 
