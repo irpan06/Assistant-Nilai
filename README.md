@@ -32,7 +32,12 @@ Dapat menghitung **IPK, distribusi nilai, progress SKS**, hingga melakukan **sim
 ---
 
 ## 📸 Preview
+Halaman Overview:
+![overview-ipk](assets/overview-ipk.png)
+![overview-ips](assets/overview-ips.png)
 
+Halaman Simulasi:
+![simulasi](assets/simulasi.png)
 
 ---
 
